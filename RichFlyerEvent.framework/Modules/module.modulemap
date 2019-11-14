@@ -1,0 +1,6 @@
+framework module RichFlyerEvent {
+  umbrella header "RichFlyerEvent.h"
+
+  export *
+  module * { export * }
+}
