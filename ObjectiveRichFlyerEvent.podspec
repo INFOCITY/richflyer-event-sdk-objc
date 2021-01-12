@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ObjectiveRichFlyerEvent"
-  s.version      = "1.0.8"
+  s.version      = "1.0.9"
   s.summary      = "The RichFlyer Event SDK for Objective-C"
   s.description  = <<-DESC
                       This framework is RichFlyer Event SDK built with Objective-C. The app built with Objective-C could embed this framework.
